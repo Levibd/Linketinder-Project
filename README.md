@@ -25,3 +25,5 @@ CHALLENGES
 12 - echo -n > empty.txt
 
 13 - cp hello.txt goodbye.txt
+
+14 - mv goodbye.txt hello_copy.txt
