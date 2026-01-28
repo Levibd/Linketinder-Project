@@ -37,3 +37,5 @@ CHALLENGES
 18 - ls -l
 
 19 - chmod +w restricted.txt; echo "..." >> restricted.txt
+
+20 - ./hello_executable
