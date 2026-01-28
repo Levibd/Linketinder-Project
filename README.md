@@ -53,3 +53,5 @@ CHALLENGES
 26 - nproc
 
 27 - uname -r
+
+28 - grep -r "You found the needle in the haystack!" bunch_of_files/
