@@ -45,3 +45,5 @@ CHALLENGES
 22 - gcc compile_me.c -o compile_me; ./compile_me
 
 23 - ./redirect > output.txt
+
+24 - date
