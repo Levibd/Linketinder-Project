@@ -6,4 +6,4 @@ CHALLENGES
 
 3 - ls
 
-
+4 - mkdir foo
