@@ -35,3 +35,5 @@ CHALLENGES
 17 - pwd
 
 18 - ls -l
+
+19 - chmod +w restricted.txt; echo "..." >> restricted.txt
