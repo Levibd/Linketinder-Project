@@ -91,3 +91,5 @@ CHALLENGES
 45 - rm *deleteme*
 
 46 - sed -i 's/old/new/' bunch_of_files/file719.rand
+
+47 - sed 's/,/|/g' people.csv > people_pipe.csv
