@@ -31,3 +31,5 @@ CHALLENGES
 15 - diff hello.txt hello_copy.txt
 
 16 - cat hello.txt hello_copy.txt > 2_hellos.txt
+
+17 - pwd
