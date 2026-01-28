@@ -61,3 +61,5 @@ CHALLENGES
 30 - tail -n 25 people.csv
 
 31 - diff greeting1.txt greeting2.txt
+
+32 - echo "Hello"; sleep 5; echo "world!"
