@@ -87,3 +87,5 @@ CHALLENGES
 43 - find . -maxdepth 1 -type f | wc -l
 
 44 - find . -maxdepth 1 -type d | wc -l
+
+45 - rm *deleteme*
