@@ -93,3 +93,7 @@ CHALLENGES
 46 - sed -i 's/old/new/' bunch_of_files/file719.rand
 
 47 - sed 's/,/|/g' people.csv > people_pipe.csv
+
+48 - I used md5sum to find out the hash and find ... | grep hash to find the equals
+
+
