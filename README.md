@@ -81,3 +81,5 @@ CHALLENGES
 40 - tail -n +2 people.csv | cut -d ',' -f 2 | sort | uniq | wc -l
 
 41 - time tail -n +2 people.csv | cut -d ',' -f 2 | sort | uniq | wc -l
+
+42 - grep "Josiah" people.csv | wc -l
