@@ -85,3 +85,5 @@ CHALLENGES
 42 - grep "Josiah" people.csv | wc -l
 
 43 - find . -maxdepth 1 -type f | wc -l
+
+44 - find . -maxdepth 1 -type d | wc -l
