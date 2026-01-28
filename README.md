@@ -41,3 +41,6 @@ CHALLENGES
 20 - ./hello_executable
 
 21 - chmod +x challenge_20; ./challenge_20
+
+22 - gcc compile_me.c -o compile_me; ./compile_me
+
