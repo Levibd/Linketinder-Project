@@ -89,3 +89,5 @@ CHALLENGES
 44 - find . -maxdepth 1 -type d | wc -l
 
 45 - rm *deleteme*
+
+46 - sed -i 's/old/new/' bunch_of_files/file719.rand
