@@ -63,3 +63,5 @@ CHALLENGES
 31 - diff greeting1.txt greeting2.txt
 
 32 - echo "Hello"; sleep 5; echo "world!"
+
+33 - dd if=/dev/zero of=zeros_1MB.bin bs=1M count=1
