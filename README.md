@@ -96,4 +96,4 @@ CHALLENGES
 
 48 - I used md5sum to find out the hash and find ... | grep hash to find the equals
 
-
+49 - touch supercalifragilisticexpialidocious.txt ; rm s*
