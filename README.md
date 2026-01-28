@@ -75,3 +75,5 @@ CHALLENGES
 37 - cut -d ',' -f 2 people.csv
 
 38 - cut -d ',' -f 2 people.csv | sort | uniq | wc -l
+
+39 - Yes, the header was counted as if it was a middle name
