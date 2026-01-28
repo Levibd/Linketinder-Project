@@ -39,3 +39,5 @@ CHALLENGES
 19 - chmod +w restricted.txt; echo "..." >> restricted.txt
 
 20 - ./hello_executable
+
+21 - chmod +x challenge_20; ./challenge_20
