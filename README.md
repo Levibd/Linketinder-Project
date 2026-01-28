@@ -27,3 +27,6 @@ CHALLENGES
 13 - cp hello.txt goodbye.txt
 
 14 - mv goodbye.txt hello_copy.txt
+
+15 - diff hello.txt hello_copy.txt
+
