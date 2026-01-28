@@ -21,3 +21,5 @@ CHALLENGES
 10 - rm empty.txt
 
 11 - > empty.txt
+
+12 - echo -n > empty.txt
