@@ -15,3 +15,5 @@ CHALLENGES
 7 - echo "Hello World"
 
 8 - echo "Hello World" > hello.txt
+
+9 - touch empty.txt
