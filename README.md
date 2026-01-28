@@ -47,3 +47,5 @@ CHALLENGES
 23 - ./redirect > output.txt
 
 24 - date
+
+25 - ps aux
